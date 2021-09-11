@@ -24,6 +24,8 @@
 <img align="left" alt="yarn" height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 <img align="left" alt="jest" height="25" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
+</br>
+
 **📈 my github stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leonardof26&show_icons=true&theme=material-palenight&hide=stars" alt="my git status" />
 
